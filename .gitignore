@@ -1,0 +1,4 @@
+*.json
+Pipfile.lock
+Pipfile
+.idea
