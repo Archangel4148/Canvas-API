@@ -1,4 +1,4 @@
 {
-  "canvas_url": "YOUR URL HERE (e.g. https://university.instructure.com)",
-  "api_token": "YOUR API TOKEN HERE (comes from your Canvas account settings)"
+  "canvas_url": "",
+  "api_token": ""
 }
