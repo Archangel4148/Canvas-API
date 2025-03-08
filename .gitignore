@@ -1,4 +1,4 @@
-*.json
+canvas_info.json
 Pipfile.lock
 Pipfile
 .idea
