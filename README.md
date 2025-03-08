@@ -16,11 +16,11 @@ This Python script interacts with the Canvas API to provide course and student i
 
 ## Setup
 ### 1. Configure API Credentials
-Before running the script, create a `canvas_info.json` file in the project directory. This file should contain:
+Before running the script, ***rename*** and fill in the `canvas_info_template.json` file in the project directory. This file should contain:
 ```json
 {
-    "canvas_url": "https://your-canvas-instance.com",
-    "api_token": "your-api-token-here"
+    "canvas_url": "https://<your-system>.instructure.com (Copy the URL from Canvas home page)",
+    "api_token": "your-api-token (comes from your Canvas account settings)"
 }
 ```
 > **Important:** Do NOT share your API token or commit it to a public repository.
